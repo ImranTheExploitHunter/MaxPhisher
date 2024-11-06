@@ -10,7 +10,7 @@
   <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-ImranTheThirdEye-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-ImranTheExploitHunter-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-80%25-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/ImranTheThirdEye/MaxPhisher```
+ - ```git clone https://github.com/ImranTheExploitHunter/MaxPhisher```
 
 ##### Enter the directory
  - ```cd MaxPhisher```
@@ -153,10 +153,10 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-ImranTheThirdEye-green?style=for-the-badge&logo=github)](https://github.com/ImranTheThirdEye)
+- [![Github](https://img.shields.io/badge/Github-ImranTheExploitHunter-green?style=for-the-badge&logo=github)](https://github.com/ImranTheExploitHunter)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-ImranTheThirdEye-green?style=for-the-badge&logo=gmail)](mailto:imranthethirdeye@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-ImranTheExploitHunter-green?style=for-the-badge&logo=gmail)](mailto:ImranTheExploitHunter@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-ImranTheThirdEye-green?style=for-the-badge&logo=facebook)](https://facebook.com/imrandathirdeye)
+- [![Facebook](https://img.shields.io/badge/Facebook-ImranTheExploitHunter-green?style=for-the-badge&logo=facebook)](https://facebook.com/imrandathirdeye)
 
 
